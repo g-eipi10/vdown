@@ -1,6 +1,6 @@
 import subprocess
 
-print('\n=================================\nDownload YouTube - v1\n=================================')
+print('\n=================================\nDownload videos by yt-dlp - v2\n=================================')
 
 # Update yt-dlp
 update = f"./yt-dlp.exe -U"
